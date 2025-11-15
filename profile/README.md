@@ -1,1 +1,1 @@
-![duplaA's GitHub stats](https://github-readme-stats.vercel.app/api?username=duplaA)
+![AtlasAuto Dev Repo](https://github-readme-stats.vercel.app/api/pin/?username=duplaA&repo=atlasauto-dev)
